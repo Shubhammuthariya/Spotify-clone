@@ -14,7 +14,7 @@ body {
 
 .sidebar {
     background-color: black;
-    width: 425px;
+    width: 380px;
     border-radius: 1rem;
     margin-left: 0.25rem;
 }
@@ -298,6 +298,7 @@ a {
 }
 .album-icon{
     opacity: 0.6;
+    margin-left: 10px;
 }
 .album-icon:hover{
     opacity: 1;
@@ -308,7 +309,7 @@ a {
     align-items: center;
 }
 .control-icon-div{
-    margin-left: 150px;
+    margin-left: 60px;
 }
 .control-icon{
     margin-right: 1rem;
